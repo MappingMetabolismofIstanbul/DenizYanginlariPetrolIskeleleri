@@ -29,7 +29,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [29.273, 40.860],
+                center: [29.083, 41.109],
                 zoom:10,
                 pitch: 0,
                 bearing: 0
@@ -59,7 +59,7 @@ var config = {
             image: 'https://i.ibb.co/848b7YLt/MEF-AAP-027-BAP-2025-08-06-18-30-19.png',
             description: '',
             location: {
-                center: [29.273, 40.860],
+                center: [29.083, 41.109],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0,
@@ -84,7 +84,7 @@ var config = {
             image: 'https://i.ibb.co/Z1hzwHGf/MEF-AAP-027-BAP-2025-08-06-18-31-13.png',
             description: '',
             location: {
-                center: [29.273, 40.860],
+                center: [29.083, 41.109],
                 zoom: 14,
                 pitch: 0,
                 bearing: 0.00
@@ -103,7 +103,7 @@ var config = {
             image: 'https://i.ibb.co/9k3zBp7q/MEF-AAP-027-BAP-2025-08-06-18-33-27.png',
             description: '',
             location: {
-                center: [29.273, 40.860],
+                center: [29.083, 41.109],
                 zoom: 16,
                 pitch: 0,
                 bearing: 0.00
@@ -122,7 +122,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [29.273, 40.860],
+                center: [29.083, 41.109],
                 zoom: 18,
                 pitch: 0,
                 bearing: 0.00
